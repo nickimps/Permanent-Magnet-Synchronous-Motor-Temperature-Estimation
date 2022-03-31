@@ -1,0 +1,1 @@
+The goal of this project is to create a model to predict the temperature of a permanent magnet synchronous motor. The data set used can be found at https://www.kaggle.com/wkirgsn/electric-motor-temperature
